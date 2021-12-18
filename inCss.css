@@ -1,0 +1,59 @@
+.option{
+    position: absolute;
+    left: 393px;
+    margin: 25px;
+    border: 25px cornflowerblue;
+}
+
+body{
+    background: beige;
+}
+
+.sec{
+    width: 788px;
+    height: 250px;
+    background-color: #E7E7E7;
+}
+
+.sec_next{
+    position: relative;
+    top: 30px;
+    text-align:center;
+    font-size: 17px;
+    background-color: #F9F9F9;
+}
+
+ul{
+    margin: 15px;
+    position: relative;
+    top: 40px;
+}
+
+.suspension{
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    background-color: lightgrey;
+    width: 200px;
+    height: 400px;
+    padding: 25px;
+    margin: 25px;
+}
+
+.end{
+    position: relative;
+    top: 15px;
+    padding: 20px 50px;
+    background: #ffffff;
+    font-family: 华文宋体, serif;
+    color: black;
+    font-size: 20px;
+}
+li{
+    height: 35px;
+}
+.SprinkleFlowers{
+    position: relative;
+    top: 30px;
+    margin-bottom: 500px;
+}
